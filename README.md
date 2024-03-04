@@ -1,2 +1,9 @@
-# M2-VisualAI
-Visual AI(Prof. Jong-Hyuk Park), Department of Data Science, General Graduate School, KMU
+# Visual AI
+
+- Prof. Jong-Hyuk Park
+
+- 2nd Semester, Spring Semester 2024
+
+</br>
+
+## Concept
